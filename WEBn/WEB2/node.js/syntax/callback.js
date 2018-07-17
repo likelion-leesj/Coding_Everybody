@@ -15,3 +15,4 @@ function slowfunc(callback){
 }
 slowfunc(a);
 //함수가 끝났으니 다음걸 실행해라 >> 인자로 callback을 받아주면된다.
+// 콜백 한번더 보기 
