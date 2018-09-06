@@ -21,3 +21,6 @@ pm2 start main.js --watch
 # pm2 로그
 # 종료시 ctrl + c 
 pm2 log
+
+데이터 디렉토리 watch 안하게 한다. 
+pm2 start main.js --watch --ignore-watch="data/*"
