@@ -3,6 +3,7 @@
 3. WEBn
     WEB1 - HTML & Internet
     WEB2 - Nodejs
+    WEB2 - JavaScript
 4. GIT
     GIT1
 
@@ -12,4 +13,3 @@
 
 * 커밋 메세지 WEB2 node.js 처럼 webn 의 세부 사항을 메세지에 넣을것
 * 커밋 메세지 형태 : WEBn (세부사항) 몇번째 커밋:'학습내용/설명'
-* 
