@@ -4,10 +4,13 @@
     * WEB1 - HTML & Internet
     * WEB2 - Nodejs
     * WEB2 - JavaScript
+    * WEB2 - OAuth2.0
+
 4. GIT
     * GIT1
     * GIT2 - Version Control CLI
     * POSIX CLI1
+
 * c9 에서 node.js 실행시키는법 (workspace blank 로 만들었을때)
     * 강의에서는 app.listen(3000); 으로 만들었지만
     * 실제로 할때는 app.listen(process.env.PORT); 로 해야 한다.
