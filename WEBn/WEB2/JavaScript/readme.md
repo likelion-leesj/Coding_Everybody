@@ -22,3 +22,5 @@ JS 가 동적으로 바꾸어주는 역할을 한다.
 
 chorme 개발자도구로 javascript 간단한 실습 및 테스트
 JavaScript 기본은 이미 조금 되어있어서 쉬엄쉬엄
+
+조건문과 boolen , 조건문
