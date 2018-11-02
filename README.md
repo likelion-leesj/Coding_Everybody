@@ -5,7 +5,8 @@
     * WEB2 - Nodejs
     * WEB2 - JavaScript
     * WEB2 - OAuth2.0
-    * weB3 - FacebookLogin-JavaScript
+    * WEB3 - FacebookLogin-JavaScript
+    * WEB3 - GoogleLogin-JavaScript
 
 4. GIT
     * GIT1
