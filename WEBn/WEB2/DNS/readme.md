@@ -61,14 +61,14 @@ A : 주소 타입의 레코드
 
 nslookup!
 
-example.com ... 
-![DNS](hufsglobaldns.PNG)
+example.com ...  
+![DNS](hufsglobaldns.PNG)  
 한번 주소와 대응하는 IP 주소를 알게된다면 캐시를 통해서 IP주소를 저장하게되고 매번 DNS 서버들을 거쳐서 찾지않는다. 
 이러한 (캐시) 방법으로 인터넷 서버의 부하를 줄인다. 
 
 ns lookup -type=ns hufsglobal.info
-직접 물어보고 싶다면?
-![DNS](dns2.PNG)
+직접 물어보고 싶다면?  
+![DNS](dns2.PNG)  
 
 My Domain Name
 
