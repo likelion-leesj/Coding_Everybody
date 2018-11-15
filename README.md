@@ -5,6 +5,8 @@
     * WEB2 - Nodejs
     * WEB2 - JavaScript
     * WEB2 - OAuth2.0
+    * WEB2 - HTTP
+    * WEB2 - Domain Name System
     * WEB3 - FacebookLogin-JavaScript
     * WEB3 - GoogleLogin-JavaScript
 
