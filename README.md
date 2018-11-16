@@ -7,6 +7,7 @@
     * WEB2 - OAuth2.0
     * WEB2 - HTTP
     * WEB2 - Domain Name System
+    * WEB2 - Home Server
     * WEB3 - FacebookLogin-JavaScript
     * WEB3 - GoogleLogin-JavaScript
 
