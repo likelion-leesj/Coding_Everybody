@@ -47,3 +47,11 @@ A 나 B 를 비교하기가 어렵다면...?
 [teachable machine](https://teachablemachine.withgoogle.com/)  
 기계가 학습하는것을 평가하는것이 중요하다!! 
 판단력 -> 모델(Model)  
+
+*** 
+
+### 모델(model)
+
+실행에 의한 판단능력을 '교훈'이라 부른다.  
+교훈과 이론은 판단력의 다른이름이라 볼 수 있다.  
+모델을 만드는 과정을 학습(Learning)이라 부른다.  
