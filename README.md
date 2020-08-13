@@ -32,7 +32,7 @@ Coding_Everybody
 * Language (java-night)
    * JAVA1 
 
-* Data science
+* Data_Science (ml-night)
    * Machine-learning1
 
 *** 
