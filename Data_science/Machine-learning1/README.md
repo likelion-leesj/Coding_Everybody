@@ -39,3 +39,11 @@ A 나 B 를 비교하기가 어렵다면...?
 습관을 고치는 앱을 구상해볼까?  
 우리는 자신의 궁리가 단지 몽상이 아니라 혁명이 될 수 있는 놀라운 시대에 살고있다. 
 궁리하라!!!
+
+***
+
+### Teachable Machine
+
+[teachable machine](https://teachablemachine.withgoogle.com/)  
+기계가 학습하는것을 평가하는것이 중요하다!! 
+판단력 -> 모델(Model)  
