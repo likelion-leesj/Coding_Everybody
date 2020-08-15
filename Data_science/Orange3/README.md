@@ -3,6 +3,8 @@ Orange 3
 
 주말 비어있는 ML 강의에 추가 강의 학습  
 
+https://yah.ac/orange3
+
 ***
 
 ### OT
