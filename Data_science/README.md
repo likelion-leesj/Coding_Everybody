@@ -13,3 +13,9 @@ Start!
 
 진도표 링크 확인  
 https://yah.ac/ml
+
+***
+
+주말 비어있는 ML 강의에 추가 강의 학습 + ML1 끝나고 추가 학습
+
+https://yah.ac/orange3
