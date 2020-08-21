@@ -11,6 +11,8 @@
 
 Start!
 
+***
+
 진도표 링크 확인  
 https://yah.ac/ml
 
@@ -18,6 +20,7 @@ https://yah.ac/ml
 
 주말 비어있는 ML 강의에 추가 강의 학습 + ML1 끝나고 추가 학습
 
+진도표 링크 확인  
 https://yah.ac/orange3  
 
 예제파일 1
@@ -25,3 +28,10 @@ https://docs.google.com/spreadsheets/d/1Mo2ZgFOPfUO8Sldy5oCHH154s4s7SvNvsFCbaj3g
 
 예제파일 2
 https://docs.google.com/spreadsheets/d/1xZ9sPsDQ3d7xVgUBeS61t4fsclnB-xhegnQ41gOX9U4/edit?usp=sharing
+
+***
+
+ML1 과 Orange3 끝나고 Tensorflow 에 대해서 학습하다.   
+
+진도표 링크 확인  
+https://yah.ac/tensorflow
